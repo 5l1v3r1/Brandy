@@ -3,7 +3,7 @@ Brandy was designed to make network communications easy in C# .NET Framework usi
 
 # Features
 * Can handle multiple client connections
-* Can receive a byte[] array format of data that is easy to manipulate
+* Can send and receive a byte[] array format of data that is easy to manipulate
 * Can listen on multiple ports
 
 # Usage

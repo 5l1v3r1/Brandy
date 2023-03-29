@@ -15,7 +15,7 @@ namespace Server.Test
             Console.WriteLine("Brandy Framework Server starting....");
             brandyServer.BrandyClientConnected += Server_BrandyClientConnected;
             brandyServer.BrandyClientDisconnected += Server_BrandyClientDisconnected;
-            brandyServer.Listen(80);
+            brandyServer.Listen(80, 81, 82);
             Console.Read();
         }
 
