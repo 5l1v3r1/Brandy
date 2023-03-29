@@ -1,0 +1,11 @@
+.vs/
+.vs
+.git
+.git/
+Desktop.ini
+Server.Test/bin/
+Server.Test/obj/
+Client.Test/bin/
+Client.Test/obj/
+Brandy/bin/
+Brandy/obj/
